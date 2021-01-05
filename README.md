@@ -14,4 +14,4 @@ php example.php factuur
 ```
 
 ## Informatie
-[De of het regels](https://webwoordenboek.nl/de-of-het)
+[De of het](https://webwoordenboek.nl/de-of-het)
